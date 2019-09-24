@@ -4,7 +4,10 @@
 }
 #div2{
     width: 60%;
-    align-content: center;
+    align-items: center;
+}
+.div2_classitem{
+    flex-direction: column;
 }
 #div2_item1 img{
     width: 5%;
